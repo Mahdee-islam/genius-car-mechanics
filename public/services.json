@@ -1,0 +1,44 @@
+[
+    { "id" : 1,
+      "name": "Routine Checkup",
+      "price": 2000,
+      "duration": 120,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/7SM6LWX/1.jpg"
+    },
+    { "id" : 2,
+      "name": "Engine Checkup",
+      "price": 5000,
+      "duration": 2,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/10Vn68S/2.jpg"
+    },
+    { "id" : 3,
+      "name": "Replace tire",
+      "price": 1000,
+      "duration": 30,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/3Yq7nhv/3.jpg"
+    },
+    { "id" : 4,
+      "name": "Engine Oil Change",
+      "price": 300,
+      "duration": 30,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/KhwZ4ky/4.jpg"
+    },
+    { "id" : 5,
+      "name": "Replace parts",
+      "price": 500,
+      "duration": 45,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/gVTbqWz/5.jpg"
+    },
+    { "id" : 6,
+      "name": "Car Wash",
+      "price": 250,
+      "duration": 30,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quas cum harum! Fugit laborum voluptatum qui velit libero quam doloribus.",
+      "img": "https://i.ibb.co/ZBJgzZB/6.jpg"
+    }
+]

@@ -1,0 +1,9 @@
+.service {
+    background:rgb(191, 218, 218);
+    border-radius: 20px;
+}
+.service img {
+    width: 350px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
